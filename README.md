@@ -1,0 +1,2 @@
+Il s'agit d'un jeu de combat au tour par tour entre utilisateur et un dragon(ordinateur). Chaque personnage dispose au départ d'un certain nombre de points de vie. 
+A chaque tour de jeu, l'un des personnages attaque l'autre et lui ôte des points de vie. Le premier des deux dont les points de vie atteignent 0 à perdu le combat.
